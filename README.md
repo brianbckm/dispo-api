@@ -70,7 +70,7 @@ on User {\n  __typename\n  id\n  handle\n  displayName\n  avatar\n  verified\n}"
 
 ### Tools Dispo using
 * https://d1o09vdwvdbry2.cloudfront.net - Cloudfront as Image CDN
-* sentry.io - Event Tracking
+* sentry.io - Diagnosis
 * onesignal.com - For Push Notifications
 * mixpanel.com - Analytics
 
