@@ -1,5 +1,5 @@
 # dispo-api :rocket:
- Looking at the api of the dispo just a short walk
+ Looking at the api of the dispo - just a short walk
 
  They using a GraphSQL Service as API Endpoint
 
